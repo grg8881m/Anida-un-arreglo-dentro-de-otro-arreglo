@@ -1,0 +1,4 @@
+// Cambia solo el código debajo de esta línea
+const myArray = [["Ingresos a nombre de: Milton Giovanni Rodriguez Guerrero.", " A partir del día ", 20, "de enero del ", 2022, "con una declaración económica así: "," Ingreso Mensuales",5000000], ["Gastos Mensuales",1000000]];
+
+console.log(myArray);
